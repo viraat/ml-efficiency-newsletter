@@ -15,7 +15,7 @@ Hyena is a subquadratic drop-in replacement for attention in Transformers that i
 📰 [LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339v2)
 This paper proposes a two-part quantization procedure called LLM.int8() for large language models that reduces GPU memory requirements for inference by half while retaining full precision performance. Bonus: Watch Tim Dettmers C4AI talk [here](https://www.youtube.com/watch?v=jyOqtw4ry2w). Code is [here](https://paperswithcode.com/paper/llm-int8-8-bit-matrix-multiplication-for)
 
-📰 [CoLT5: Faster Long-Range Transformers with Conditional Computation]https://arxiv.org/abs/2303.09752
+📰 [CoLT5: Faster Long-Range Transformers with Conditional Computation](https://arxiv.org/abs/2303.09752)
 CoLT5 is a Transformer model that uses conditional computation to focus more on important tokens in feedforward and attention layers, allowing for more efficient processing of long documents. 
 
 📝 [Modular Deep Learning](https://www.ruder.io/modular-deep-learning/) ([Summary Tweet](https://twitter.com/seb_ruder/status/1628721434162765827))
